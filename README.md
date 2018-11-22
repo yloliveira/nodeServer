@@ -1,4 +1,4 @@
-# basicNodeJS
+# Basic Server with NodeJS
 Basic and standard structure of a backend application using NodeJS.
 
 Features used:
@@ -7,3 +7,5 @@ Features used:
   - EditorConfig
   - esLint e Prettier
   - nunJucks
+  - Sequelize
+  - PostgreSQL
